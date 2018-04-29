@@ -14,10 +14,8 @@ body {
 }
 .navbar .navbar-nav {
   display: inline-block;
-  font-size-adjust: center;
   float: none;
   vertical-align: top;
-  font: 'RobotoCondensed';
 }
 
 .navbar .navbar-collapse {
