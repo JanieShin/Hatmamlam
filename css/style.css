@@ -1,5 +1,12 @@
 body {
-    font-family: 'RobotoCondensed','Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
+
+    @font-face{
+    src: url(RobotoCondensed.ttf)
+    url(RobotoCondensed-Bold.ttf)
+
+    }
+   
+    {font-family: 'RobotoCondensed','Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
 .navbar li a{
 	color: #555;
