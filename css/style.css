@@ -1,8 +1,9 @@
 
     @font-face{
-    src: url(RobotoCondensed.ttf)
-    url(RobotoCondensed-Bold.ttf)
-    url(RobotoCondensed-Italic.ttf)
+    src: 
+    url(/public_html/fonts/RobotoCondensed-Bold.ttf)
+    url(/public_html/fonts/RobotoCondensed-BoldItalic.ttf)
+    url(/public_html/fonts/RobotoCondensed-Italic.ttf)
 }
 body {
    
