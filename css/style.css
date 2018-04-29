@@ -6,8 +6,6 @@ body {
 }
 .navbar .navbar-nav {
   display: inline-block;
-  font-style: bold;
-  font-family: "Roboto-Light"
   float: none;
   vertical-align: top;
 }
