@@ -1,12 +1,10 @@
-
+body {
     @font-face{
     font-family: 'RobotoCondensed'
     font-style: normal;
     src: local('Roboto Condensed'), local('RobotoCondensed'), url(/public_html/fonts/RobotoCondensed-Bold.ttf) format('ttf');
    
 }
-body {
-   
     {font-family: 'RobotoCondensed', 'Roboto', 'Roboto-Light', 'Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
 .navbar li a{
