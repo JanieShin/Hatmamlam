@@ -1,11 +1,4 @@
 body {
-
-    @font-face{
-    src: url(RobotoCondensed.ttf)
-    url(RobotoCondensed-Bold.ttf)
-    url(RobotoCondensed-Italic.ttf)
-
-    }
    
     {font-family: 'RobotoCondensed', 'Roboto', 'Roboto-Light', 'Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
