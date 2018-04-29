@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto Condensed','Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
+    font-family: 'RobotoCondensed','Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
 .navbar li a{
 	color: #555;
@@ -32,7 +32,7 @@ section{
 .home{
     padding-top: 100px
     font-style: bold;
-    font-family: "Roboto Condensed"
+    font-family: "RobotoCondensed"
     color: #6e8282
     font-size: 20px;
 }
