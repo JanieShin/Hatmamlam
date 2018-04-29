@@ -1,9 +1,9 @@
 
     @font-face{
-    src: 
-    url(/public_html/fonts/RobotoCondensed-Bold.ttf)
-    url(/public_html/fonts/RobotoCondensed-BoldItalic.ttf)
-    url(/public_html/fonts/RobotoCondensed-Italic.ttf)
+    font-family: 'RobotoCondensed'
+    font-style: normal;
+    src: local('Roboto Condensed'), local('RobotoCondensed'), url(/public_html/fonts/RobotoCondensed-Bold.ttf) format('ttf');
+   
 }
 body {
    
