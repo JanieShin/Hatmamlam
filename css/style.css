@@ -1,4 +1,11 @@
 body {
+
+    @font-face{
+    src: url(RobotoCondensed.ttf)
+    url(RobotoCondensed-Bold.ttf)
+    url(RobotoCondensed-Italic.ttf)
+
+    }
    
     {font-family: 'RobotoCondensed', 'Roboto', 'Roboto-Light', 'Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
@@ -7,9 +14,10 @@ body {
 }
 .navbar .navbar-nav {
   display: inline-block;
-  margin: center;
+  font-size-adjust: center;
   float: none;
   vertical-align: top;
+  font: 'RobotoCondensed';
 }
 
 .navbar .navbar-collapse {
