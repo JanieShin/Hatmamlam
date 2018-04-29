@@ -1,0 +1,184 @@
+body {
+    font-family: 'Roboto-Light','Roboto','Noto Serif','Cormorant Infant','Cormorant','Taviraj', sans-serif;
+}
+.navbar li a{
+	color: #555;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.cover{
+    background: url(../img/banner.jpg) center center no-repeat, linear-gradient(to bottom, rgba(255,255,255,0.3), rgba(255,255,255,1));
+    height: calc(100vh - 52px);
+    position: relative;
+    background-size: cover;
+    background-position: top;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+section{
+	margin: 20px 0px;
+}
+
+section.tieuchi {
+    margin: 60px 0px 40px 0px;
+}
+
+.tieuchi-box h4 {
+    margin: 0px;
+}
+
+.tieuchi-box .box {
+    height: 80px;
+    width: 80px;
+    border: 5px solid #00000059;
+    margin: 0px 10px 10px 0px;
+}
+
+.tieuchi-box p {
+    font-style: italic;
+}
+
+.image-shadow {
+    box-shadow: -30px 30px #8c9da7;
+    margin-left: 30px;
+    margin-bottom: 80px;
+}
+
+.intro{
+    padding-top: 40px;
+    font-style: italic;
+}
+
+.cchml {
+	background: url(../img/base_1.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 100%;
+    position: relative;
+    background-size: cover;
+    background-color: #e4e4e4;
+    padding-bottom: 50px;
+}
+
+.btn.btn-light:hover {
+    background: #333;
+    color: #fff;
+    -webkit-transition: background 0.5s,color 0.5s;
+    transition: background 0.5s, color 0.5s;
+}
+.btn.btn-light {
+    background: rgba(255,255,255,0.5);
+    padding: 10px 25px;
+    color: #333;
+    border: 1px solid black;
+    border-radius: 0px;
+    -webkit-transition: background 0.5s;
+    transition: background 0.5s;
+}
+
+.cchml-img{
+	max-height: 350px;
+}
+
+.overflow-hidden{
+	overflow: hidden;
+}
+
+section.tintuc {
+    margin-bottom: 60px;
+}
+
+.tintuc-text {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(81, 81, 81, 0.54);
+    color: #fff;
+    margin-right: 15px;
+    padding: 0px 10px 13px 10px;
+    transition: bottom 0.5s;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.tintuc-text:hover {
+    bottom: 40px;
+    transition: bottom 0.3s;
+}
+
+.sec-title {
+    margin-top: 40px;
+    padding: 20px;
+    background: url(../img/h_bg.png) top center no-repeat;
+}
+section.khoahoc{
+    background: url(../img/base_2.jpg) , linear-gradient(to bottom, rgba(255,255,255,1), rgba(255,255,255,0.3));
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 100%;
+    position: relative;
+    background-size: cover;
+    padding: 88px 0px 100px 0px;
+    margin: 0px;
+}
+
+.khoahoc h1{
+	color: #859a9c;
+	font-size: 40px;
+
+}
+
+.khoahoc .btn-dark{
+    border: 2px solid #fff;
+    font-size: 30px;
+    padding: 10px 65px;
+    color: #fff;
+    background: rgba(0,0,0,0.3);
+    margin-top: 30px;
+    transition: 0.5s background;
+}
+.khoahoc .btn-dark:hover{
+    background: rgba(0,0,0,0.5);
+    transition: 0.5s background;
+}
+
+section.nkht{
+	margin-bottom:80px;
+}
+
+section.footer{
+    background: url(../img/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    position: relative;
+    background-size: cover;
+    padding: 100px 0px 60px 0px;
+    margin: 0px;
+}
+.text-bold{
+	font-weight: bold;
+}
+#inputSEmail{
+    background-color: rgba(0,0,0,0.4);
+    padding: 30px;
+    color: #fff;
+    font-size: 20px;
+    border: 2px solid rgba(255,255,255,0.7);
+}
+
+#inputSEmail::placeholder{
+	color:#fff;
+	text-align: center;
+	font-weight: lighter;
+	font-style: italic;
+}
