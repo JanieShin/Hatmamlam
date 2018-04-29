@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto-Light','Roboto','Noto Serif','Cormorant Infant','Cormorant','Taviraj', sans-serif;
+    font-family: 'Roboto-Light','Roboto','Noto Serif','Cormorant Infant','Cormorant','Taviraj', 'Times' sans-serif, serif;
 }
 .navbar li a{
 	color: #555;
@@ -33,6 +33,7 @@ section{
     padding-top: 100px;
     font-style: italic;
     font-family: "Times New Roman", Times, serif;
+    font-size: 8.15px
 }
 
 .cchml {
