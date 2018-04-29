@@ -16,6 +16,7 @@ body {
   display: inline-block;
   float: none;
   vertical-align: top;
+  font: 'RobotoCondensed';
 }
 
 .navbar .navbar-collapse {
